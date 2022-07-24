@@ -1,0 +1,84 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TV CHILE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",CHILE| TV CHILE HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202028
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| MEGA HD" tvg-logo="http://teamnextlevel.xyz:25461/images/0accb1d836d960fee7e99eece3d5a5e7.png" group-title="CHILE",CHILE| MEGA HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202029
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CHILEVISION HD" tvg-logo="http://teamnextlevel.xyz:25461/images/37fcaa6d5b41750ea1a46f446e0eaaba.png" group-title="CHILE",CHILE| CHILEVISION HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202030
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CHILE| CANAL 13 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202032
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CDO BASICO  FHD" tvg-logo="http://teamnextlevel.xyz:25461/images/da975293b820a6a9c0c5416d08ae3330.png" group-title="CHILE",CHILE| CDO BASICO  FHD
+http://teamnextlevel.xyz:25461/Kiko/2020/202033
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CDF PREMIUN HD" tvg-logo="http://teamnextlevel.xyz:25461/images/9b623c848eed2827ea92a0e4a24fd822.png" group-title="CHILE",CHILE| CDF PREMIUN HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202034
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CANAL 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canal_13_Logo.svg/1200px-Canal_13_Logo.svg.png" group-title="CHILE",CHILE| CANAL 13 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202036
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TVN CHILE HD*" tvg-logo="http://teamnextlevel.xyz:25461/images/aefb38dd3dec0b06763d6bdb9e6b40d0.png" group-title="CHILE",CHILE| TVN CHILE HD*
+http://teamnextlevel.xyz:25461/Kiko/2020/202037
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CDO PREMIUN HD" tvg-logo="http://teamnextlevel.xyz:25461/images/9f0fbb55c51c122c04e7bfc4fd11af1f.png" group-title="CHILE",CHILE| CDO PREMIUN HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202038
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| MEGAPLUS HD" tvg-logo="http://teamnextlevel.xyz:25461/images/a82b8243041dd93a2960d378b461acdd.png" group-title="CHILE",CHILE| MEGAPLUS HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202039
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| 24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="CHILE",CHILE| 24 HORAS HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202040
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| DIRECTV SPORTS HD" tvg-logo="http://teamnextlevel.xyz:25461/images/3599d812c2e593dc916edc197673115b.png" group-title="CHILE",CHILE| DIRECTV SPORTS HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202041
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| ESPN CHILE HD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png" group-title="CHILE",CHILE| ESPN CHILE HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202042
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| FOX SPORTS 2 HD" tvg-logo="http://teamnextlevel.xyz:25461/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="CHILE",CHILE| FOX SPORTS 2 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202043
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| FOX SPORTS 1 HD" tvg-logo="http://teamnextlevel.xyz:25461/images/16fd2f4517f4ce594076b94843a6ac61.png" group-title="CHILE",CHILE| FOX SPORTS 1 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202044
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| DIRECTV SPORTS 2 HD" tvg-logo="http://teamnextlevel.xyz:25461/images/0bb016c51b1f4a432b268bc33f6a8fd3.png" group-title="CHILE",CHILE| DIRECTV SPORTS 2 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202045
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CNN CHILE HD" tvg-logo="http://teamnextlevel.xyz:25461/images/8a2bbefedfd3ef5f8bbddd3f55bf87ab.png" group-title="CHILE",CHILE| CNN CHILE HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202046
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CDF PREMIUN FHD" tvg-logo="http://teamnextlevel.xyz:25461/images/9b623c848eed2827ea92a0e4a24fd822.png" group-title="CHILE",CHILE| CDF PREMIUN FHD
+http://teamnextlevel.xyz:25461/Kiko/2020/202047
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TV+ HD" tvg-logo="" group-title="CHILE",CHILE| TV+ HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202049
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| CDF PREMIUN *+" tvg-logo="http://teamnextlevel.xyz:25461/images/373bef45b2c2cf994cef1176e11db89f.png" group-title="CHILE",CHILE| CDF PREMIUN *+
+http://teamnextlevel.xyz:25461/Kiko/2020/202052
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TNT SPORTS FHD" tvg-logo="http://teamnextlevel.xyz:25461/images/df4dd2ca05d68e8c19fca65ab1d33ded.png" group-title="CHILE",CHILE| TNT SPORTS FHD
+http://teamnextlevel.xyz:25461/Kiko/2020/202053
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TNT SPORTS HD" tvg-logo="http://teamnextlevel.xyz:25461/images/df4dd2ca05d68e8c19fca65ab1d33ded.png" group-title="CHILE",CHILE| TNT SPORTS HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202054
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TNT SPORTS 2 HD" tvg-logo="http://teamnextlevel.xyz:25461/images/df4dd2ca05d68e8c19fca65ab1d33ded.png" group-title="CHILE",CHILE| TNT SPORTS 2 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202055
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TNT SPORTS 3 HD" tvg-logo="http://teamnextlevel.xyz:25461/images/df4dd2ca05d68e8c19fca65ab1d33ded.png" group-title="CHILE",CHILE| TNT SPORTS 3 HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202056
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TNT SPORTS PREMIUN HD" tvg-logo="http://teamnextlevel.xyz:25461/images/df4dd2ca05d68e8c19fca65ab1d33ded.png" group-title="CHILE",CHILE| TNT SPORTS PREMIUN HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202057
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| TV MAS + HD MOVIES" tvg-logo="" group-title="CHILE",CHILE| TV MAS + HD MOVIES
+http://teamnextlevel.xyz:25461/Kiko/2020/202058
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| MAXIMA TV HD" tvg-logo="" group-title="CHILE",CHILE| MAXIMA TV HD
+http://teamnextlevel.xyz:25461/Kiko/2020/202059
+
+
